@@ -1,0 +1,33 @@
+mkdir varici
+cd varici
+mkdir sekolah 
+mkdir kerja 
+cd sekolah 
+touch ijazah.txt
+nano ijazah.txt
+perkenalkan namaku varici 
+aku berasal dari madiun
+salam kenal :D
+ctrl+X - Y - enter
+cat ijazah.txt
+touch portofolio.txt
+nano potrofolio.txt
+saya pernah bekerja pada beberapa perusahaan salah satu diantaranya ialah 
+-Starbuck
+-Hokben
+-KFC
+ctrl+X - Y - enter
+cd ..
+cd kerja
+touch cv.txt
+nano cv.txt
+salam,
+perkenalkan namaku varici,saya memiliki kegemaran 
+-menonton film 
+-membaca 
+-bermain game 
+ctrl+X - Y - enter
+cat cv.txt
+cd ..
+cd sekolah 
+mv portofolio.txt ../kerja
